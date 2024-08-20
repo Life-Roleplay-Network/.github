@@ -23,8 +23,21 @@ Alle bemerkenswerten Änderungen in **LifeSync Roleplay** werden in diesem Dokum
 ## lsr-hud [1.0.0] - 20.08.2024
 
 ### Hinzugefügt
-- API-Endpunkt zur Abfrage von Rollenspiel-Statistiken hinzugefügt.
-- Neues System für die Verwaltung von Benutzerrollen implementiert.
+- 
+
+### Geändert
+-
+
+### Behoben
+-
+
+## Hinweise:
+
+
+## lsr-blips [1.0.0] - 20.08.2024
+
+### Hinzugefügt
+- 
 
 ### Geändert
 -
