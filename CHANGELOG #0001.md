@@ -31,7 +31,8 @@ Alle bemerkenswerten Änderungen in **LifeSync Roleplay** werden in diesem Dokum
 ### Behoben
 -
 
-## Hinweise:
+### Hinweise:
+-
 
 
 ## lsr-blips [1.0.0] - 20.08.2024
@@ -45,4 +46,5 @@ Alle bemerkenswerten Änderungen in **LifeSync Roleplay** werden in diesem Dokum
 ### Behoben
 -
 
-## Hinweise:
+### Hinweise:
+-
