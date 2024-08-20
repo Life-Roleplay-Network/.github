@@ -31,7 +31,7 @@ Alle bemerkenswerten Änderungen in **LifeSync Roleplay** werden in diesem Dokum
 ### Behoben
 -
 
-### Hinweise:
+#### Hinweise:
 -
 
 
@@ -46,5 +46,5 @@ Alle bemerkenswerten Änderungen in **LifeSync Roleplay** werden in diesem Dokum
 ### Behoben
 -
 
-### Hinweise:
+#### Hinweise:
 -
