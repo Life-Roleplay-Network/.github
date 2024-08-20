@@ -1,4 +1,5 @@
-# Changelog für LifeSync Roleplay
+# Changelog #0001 für LifeSync Roleplay
+**Changelog #0001 BETA, 10.05.2024, 10:22**
 
 Alle bemerkenswerten Änderungen in **LifeSync Roleplay** werden in diesem Dokument festgehalten.
 
