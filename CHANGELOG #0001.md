@@ -8,13 +8,16 @@ Alle bemerkenswerten Änderungen in **LifeSync Roleplay** werden in diesem Dokum
 ## lsr-AntiCheat [1.0.0] - 20.08.2024
 
 ### Hinzugefügt
-- Funktionen dürfen nicht preisgegeben werden
+- AntiCheat Resource
 
 ### Geändert
 -
 
 ### Behoben
 -
+
+## Hinweise:
+- Die Details der AntiCheat-Funktionen sind vertraulich und dürfen nicht veröffentlicht werden. Dies dient dem Schutz der Integrität des Systems.
 
 
 ## lsr-hud [1.0.0] - 20.08.2024
@@ -28,3 +31,5 @@ Alle bemerkenswerten Änderungen in **LifeSync Roleplay** werden in diesem Dokum
 
 ### Behoben
 -
+
+## Hinweise:
