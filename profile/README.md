@@ -8,6 +8,7 @@ Willkommen bei der offiziellen GitHub-Organisation von **LifeSync Roleplay**!
 
 ### Unsere Entwicklungsstrategie 🚀
 
+Unser Team verfolgt weiterhin die Strategie, eine Kombination aus selbst entwickelten und sorgfältig ausgewählten Scripts zu nutzen. Dabei legen wir großen Wert darauf, möglichst viele Funktionen eigenständig zu entwickeln, um LifeSync Roleplay einzigartig und individuell zu gestalten. Gleichzeitig greifen wir auf externe Scripts zurück, die wir erworben haben, um sicherzustellen, dass unser Server sowohl technologisch fortschrittlich als auch stabil ist. Diese flexible Kombination erlaubt es uns, die neuen Mechaniken von **GTA 6** voll auszunutzen.
 
 ### Unterstützung durch DANIEL NETWORK CENTER 🤝
 
